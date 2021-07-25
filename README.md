@@ -1,1 +1,1 @@
-# Sentiment-Analysis-for-predicting-the-Mood-of-Tweets-
+# Sentiment-Analysis-for-predicting-the-Mood-of-Tweets
